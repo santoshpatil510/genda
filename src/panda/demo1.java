@@ -7,6 +7,7 @@ public class demo1 {
 		String a= "santosh";
 		int b=a.length();
 		System.out.println(b);
+		System.out.println(b);
 	}
 
 }
